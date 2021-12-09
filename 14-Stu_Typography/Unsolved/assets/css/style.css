@@ -33,6 +33,7 @@ h2 {
 h3 {
   font-size: 150%;
   font-family: serif;
+  /* margin: 3%; */
 }
 
 nav ul {
@@ -73,7 +74,7 @@ article p {
 article ul {
   font-family: monospace;
   list-style-type: square;
-  margin-left: 50px;
+  margin-left: 5%;
 }
 
 aside {
